@@ -1,2 +1,3 @@
 # Counterfactual-fairness-papers
-This is the repo for papers that are related to counterfactual fairness.
+
+* [Counterfactual Fairness]https://papers.nips.cc/paper/6995-counterfactual-fairness
